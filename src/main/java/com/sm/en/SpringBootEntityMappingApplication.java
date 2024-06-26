@@ -1,4 +1,4 @@
-package com.sm.en.Spring_boot_entity_mapping;
+package com.sm.en;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
